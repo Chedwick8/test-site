@@ -1,0 +1,19 @@
+# Test Site
+
+This project is a beginner HTML practice page that I built to improve my web development fundamentals.
+
+## What I practiced
+- Semantic HTML tags
+- Page structure with header and main
+- Content sections
+- Image placement
+- Basic project folder organization
+
+## Project structure
+- `index.html` → main page
+- `images/` → image files
+- `styles/` → CSS files
+- `scripts/` → JavaScript files
+
+## Goal
+My goal is to build a strong foundation in web development by practicing clean structure and consistent project organization.
