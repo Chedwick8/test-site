@@ -17,3 +17,8 @@ This project is a beginner HTML practice page that I built to improve my web dev
 
 ## Goal
 My goal is to build a strong foundation in web development by practicing clean structure and consistent project organization.
+
+## Progress Update
+
+Today I added a contact form with name, email, and message fields.
+I also improved the page structure and continued practicing semantic HTML.
