@@ -22,3 +22,8 @@ My goal is to build a strong foundation in web development by practicing clean s
 
 Today I added a contact form with name, email, and message fields.
 I also improved the page structure and continued practicing semantic HTML.
+
+## Progress Update 2
+
+Today I added basic css to my page.
+Learned the details of box model.
