@@ -25,5 +25,5 @@ I also improved the page structure and continued practicing semantic HTML.
 
 ## Progress Update 2
 
-Today I added basic css to my page.
+Today I added basic CSS to my page.
 Learned the details of box model.
